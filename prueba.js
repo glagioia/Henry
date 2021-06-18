@@ -1,1 +1,1 @@
-//gitHola este es un archivo de prueba. Saludos
+//Hola este es un archivo de prueba. Saludos
